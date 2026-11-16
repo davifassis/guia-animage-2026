@@ -1,0 +1,5 @@
+# Só o site vai para a hospedagem; ferramentas de geração e referências ficam fora.
+_build/
+_publish/
+Referencias/
+.claude/
